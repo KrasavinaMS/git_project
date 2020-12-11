@@ -1,3 +1,4 @@
+# avtor name
 def my_func():
     print('Это Git')
 
